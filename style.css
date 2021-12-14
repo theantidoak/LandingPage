@@ -58,8 +58,8 @@ h1 {
 }
 
 .right img {
-    max-height: 400px;
-    max-width: auto;
+    height: 400px;
+    width: auto;
 }
 
 .right {
@@ -90,15 +90,15 @@ h1 {
 }
 
 .third img {
-    max-height: 150px;
-    max-width: 200px;
+    height: 150px;
+    width: 200px;
     border-radius: 25px;
 }
 
 .India, .Romania, .NK, .Alaska {
     display: flex;
     flex-direction: column;
-    max-width: 200px;
+    width: 200px;
 }
 
 .fourth {
